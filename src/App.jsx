@@ -109,10 +109,10 @@ function App() {
           <div className="flex flex-col-reverse md:flex-row gap-4">
             <img
               className="md:w-[30vw] rounded-xl border dark:border-white"
-              src="./image/valuesImg.jpeg"
+              src="./image/bg1.jpg"
               alt=""
             />
-            <div className="">
+            <div className="flex flex-col justify-evenly">
               <span className="font-bold text-black dark:text-white">
                 Surgical Instruments:
               </span>
@@ -186,7 +186,7 @@ function App() {
       <div className="flex flex-col md:flex-col gap-4 items-center my-4">
         <div className="flex flex-col md:flex-row justify-evenly gap-3">
           <img
-            src="./image/pic1.jpg"
+            src="./image/pic1.png"
             alt=""
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
