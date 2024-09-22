@@ -136,6 +136,42 @@ function App() {
               </p>
             </div>
           </div>
+
+          <div className="my-3 flex flex-col gap-3">
+            <div className="flex flex-col md:flex-row gap-3 md:gap-2">
+              <img src="./image/pdfImage/pdfImg1.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg2.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg3.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg4.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+            </div>
+            <div className="flex flex-col md:flex-row gap-3 md:gap-2 ">
+              <img src="./image/pdfImage/pdfImg5.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg6.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg7.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg8.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+            </div>
+            <div className="flex flex-col md:flex-row gap-3 md:gap-2">
+              <img src="./image/pdfImage/pdfImg9.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg10.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg11.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg12.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+            </div>
+            <div className="flex flex-col md:flex-row gap-3 md:gap-2">
+              <img src="./image/pdfImage/pdfImg13.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg14.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg15.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg16.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+            </div>
+            <div className="flex flex-col md:flex-row gap-3 md:gap-2">
+              <img src="./image/pdfImage/pdfImg17.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg18.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg19.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <img src="./image/pdfImage/pdfImg20.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+            </div>
+           
+          </div>
+
+
         </div>
 
         <hr className="border border-[#4746467d] dark:border-[#ffffff5c]" />
@@ -262,8 +298,8 @@ function App() {
                 Phone:{" "}
               </span>
               <span className="text-sm md:text-lg text-[#777777]">
-                <a href="tel:+918210342249">+918210342249, </a>
-                <a href="tel:+919708229773"> +919708229773</a>
+                <a href="tel:+919708229773"> +919708229773, </a>
+                <a href="tel:+918210342249"> +918210342249 </a>
               </span>
             </div>
             <a
@@ -274,14 +310,13 @@ function App() {
                 Email:{" "}
               </span>
               <span className="text-sm md:text-lg text-[#777777]">
-                patnasauryasolution@gmail.com
+                patnahealthandsurgical@gmail.com
               </span>
             </a>
           </div>
         </div>
         <div className="flex justify-center my-3 text-center text-sm md:text-base text-[#777777]">
-          Thank you 🙋‍♂️ for visiting Patna Saurya Solution Pvt. Ltd.; together,
-          let's pave the way to a sustainable future!
+        Thank you 🙋‍♂️ for stopping by Patna Health and Surgical PVT. LTD. ! Together, let’s embark on a journey toward a healthier tomorrow!
         </div>
         <div className="flex justify-center my-3 text-center text-xs md:text-sm ">
           <p className="text-[#777777]">
