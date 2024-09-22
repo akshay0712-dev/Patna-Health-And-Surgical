@@ -109,7 +109,7 @@ function App() {
           <div className="flex flex-col-reverse md:flex-row gap-4">
             <img
               className="md:w-[30vw] rounded-xl border dark:border-white"
-              src="./image/bg1.jpg"
+              src="./image/WeOffer.jpg"
               alt=""
             />
             <div className="flex flex-col justify-evenly">
@@ -191,46 +191,46 @@ function App() {
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
           <img
-            src="./image/pic2.jpeg"
+            src="./image/pic2.png"
             alt=""
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
           <img
-            src="./image/pic3.jpeg"
-            alt=""
-            className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
-          />
-        </div>
-        <div className="flex flex-col md:flex-row justify-evenly gap-3">
-          <img
-            src="./image/pic5.jpeg"
-            alt=""
-            className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg "
-          />
-          <img
-            src="./image/pic4.jpeg"
-            alt=""
-            className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg "
-          />
-          <img
-            src="./image/pic6.jpg"
+            src="./image/pic3.png"
             alt=""
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
         </div>
+        <div className="flex flex-row md:flex-row justify-evenly gap-3 md:gap-48">
+          <img
+            src="./image/pic4.png"
+            alt=""
+            className="dark:border-2 dark:border-white :border-white w-[25%] md:w-auto md:h-[40vh] rounded-lg "
+          />
+          <img
+            src="./image/pic6.png"
+            alt=""
+            className="dark:border-2 dark:border-white :border-white w-[25%] md:w-auto md:h-[40vh] rounded-lg "
+          />
+          <img
+            src="./image/pic5.png"
+            alt=""
+            className="dark:border-2 dark:border-white :border-white w-[25%] md:w-auto md:h-[40vh] rounded-lg"
+          />
+        </div>
         <div className="flex flex-col md:flex-row justify-evenly gap-3">
           <img
-            src="./image/pic7.jpg"
+            src="./image/pic7.png"
             alt=""
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
           <img
-            src="./image/pic8.jpg"
+            src="./image/pic8.png"
             alt=""
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
           <img
-            src="./image/pic9.jpg"
+            src="./image/pic9.png"
             alt=""
             className="dark:border-2 dark:border-white w-[80vw] md:w-[30%] rounded-lg"
           />
