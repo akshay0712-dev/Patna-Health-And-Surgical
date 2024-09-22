@@ -114,6 +114,14 @@ function App() {
             />
             <div className="flex flex-col justify-evenly">
               <span className="font-bold text-black dark:text-white">
+                Hospital Furniture:
+              </span>
+              <p className="text-left text-sm pl-4 md:text-lg my-1 text-black dark:text-white">
+                We offer a wide range of hospital furniture, including
+                five-function beds, Fowler beds, and stretchers, all designed
+                for durability and patient comfort in clinical environments.
+              </p>
+              <span className="font-bold text-black dark:text-white">
                 Surgical Instruments:
               </span>
               <p className="text-left text-sm pl-4 md:text-lg my-1 text-black dark:text-white">
@@ -128,50 +136,168 @@ function App() {
                 healthcare professionals to provide accurate and efficient care.
               </p>
               <span className="font-bold text-black dark:text-white">
-                Patient Care Solutions:
+                Comprehensive Services:
               </span>
               <p className="text-left text-sm pl-4 md:text-lg my-1 text-black dark:text-white">
-                Innovative products designed to improve patient comfort and
-                recovery, ensuring the highest standards of care.
+                We also offer all kinds of services, including installation,
+                maintenance, and after-sales support to ensure your equipment
+                operates at peak efficiency.
               </p>
             </div>
           </div>
 
           <div className="my-3 flex flex-col gap-3">
             <div className="flex flex-col md:flex-row gap-3 md:gap-2">
-              <img src="./image/pdfImage/pdfImg1.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg2.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg3.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg4.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <a
+                href="./image/pdfImage/pdfImg1.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg1.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg2.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg2.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg3.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg3.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg4.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg4.jpg" alt="" className="" />
+              </a>
             </div>
             <div className="flex flex-col md:flex-row gap-3 md:gap-2 ">
-              <img src="./image/pdfImage/pdfImg5.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg6.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg7.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg8.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <a
+                href="./image/pdfImage/pdfImg5.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg5.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg6.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg6.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg7.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg7.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg8.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg8.jpg" alt="" className="" />
+              </a>
             </div>
             <div className="flex flex-col md:flex-row gap-3 md:gap-2">
-              <img src="./image/pdfImage/pdfImg9.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg10.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg11.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg12.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <a
+                href="./image/pdfImage/pdfImg9.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg9.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg10.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg10.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg11.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg11.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg12.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg12.jpg" alt="" className="" />
+              </a>
             </div>
             <div className="flex flex-col md:flex-row gap-3 md:gap-2">
-              <img src="./image/pdfImage/pdfImg13.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg14.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg15.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg16.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <a
+                href="./image/pdfImage/pdfImg13.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg13.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg14.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg14.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg15.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg15.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg16.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg16.jpg" alt="" className="" />
+              </a>
             </div>
             <div className="flex flex-col md:flex-row gap-3 md:gap-2">
-              <img src="./image/pdfImage/pdfImg17.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg18.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg19.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
-              <img src="./image/pdfImage/pdfImg20.jpg" alt="" className="w-[90vw] md:w-[23%] mx-auto rounded-lg" />
+              <a
+                href="./image/pdfImage/pdfImg17.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg17.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg18.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg18.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg19.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg19.jpg" alt="" className="" />
+              </a>
+              <a
+                href="./image/pdfImage/pdfImg20.jpg"
+                className="w-[90vw] overflow-hidden pointer md:w-[23%] mx-auto rounded-lg"
+                target="_blank"
+              >
+                <img src="./image/pdfImage/pdfImg20.jpg" alt="" className="" />
+              </a>
             </div>
-           
           </div>
-
-
         </div>
 
         <hr className="border border-[#4746467d] dark:border-[#ffffff5c]" />
@@ -316,7 +442,8 @@ function App() {
           </div>
         </div>
         <div className="flex justify-center my-3 text-center text-sm md:text-base text-[#777777]">
-        Thank you 🙋‍♂️ for stopping by Patna Health and Surgical PVT. LTD. ! Together, let’s embark on a journey toward a healthier tomorrow!
+          Thank you 🙋‍♂️ for stopping by Patna Health and Surgical PVT. LTD. !
+          Together, let’s embark on a journey toward a healthier tomorrow!
         </div>
         <div className="flex justify-center my-3 text-center text-xs md:text-sm ">
           <p className="text-[#777777]">
